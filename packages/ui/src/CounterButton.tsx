@@ -37,7 +37,7 @@ export const CounterButton = () => {
           type="button"
           onClick={() => setCount((c) => c + 1)}
         >
-          Count: {count}
+          Count Dracular: {count}
         </button>
       </div>
     </div>
