@@ -15,8 +15,10 @@ export default function Store() {
       </h1>
       <CounterButton />
       <p className="description">
-        Built With{" "}
-        <NewTabLink href="https://turbo.build/repo">Turborepo</NewTabLink> +{" "}
+        Built With Blood, sweat and tears
+        <NewTabLink href="https://turbo.build/repo">
+          Turborepo
+        </NewTabLink> +{" "}
         <NewTabLink href="https://nextjs.org/">Next.js</NewTabLink>
       </p>
     </div>
